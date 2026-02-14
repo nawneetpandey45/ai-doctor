@@ -55,15 +55,16 @@ An interactive AI-powered doctor assistant that uses multimodal capabilities (im
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/RITIKA-01A/ai-doctor-vision-voice.git
+
 cd ai-doctor-vision-voice
 pip install -r requirements.txt
 ```
 
 ## 🙋‍♀️ Author
-Ritika Kumari
+nawneet pandey
 
 ## ▶️ Run the App
 ```
 python gradio.py
 ```
+Last updated on GitHub
